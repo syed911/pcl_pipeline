@@ -1,0 +1,3 @@
+<launch>
+	<node name="pcl" pkg="pcl" type="pcl_tf" output="screen" launch-prefix="xterm -e"/>
+</launch>
