@@ -1,7 +1,7 @@
 # pcl_pipeline
 
 
-The purpose of this package is to have a complete PCL object recognition pipeline (including preprocessing)in place, as compatible with ROS. 
+The purpose of this package is to have a complete PCL object recognition pipeline in place, as compatible with ROS. Currently, the project publishes transformed segmented objects with their centroids.
 
 The nodes take depth camera stream as input and publish processed data in different topics. 
 
